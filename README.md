@@ -1,3 +1,4 @@
-## About
+## Typescript Boilerplate
 
-Typescript boilerplate
+A simple boilerplate Node + Typescript
+ 
